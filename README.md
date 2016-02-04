@@ -11,5 +11,5 @@ https://jackdougherty.github.io/otl-google-books-api/scribners-monthly-1876.html
 
 embed iframe
 ```
-[iframe src="http://jackdougherty.github.io/otl-google-books-api/scribners-monthly-1876.html" width=600 height=650]
+[iframe src="http://jackdougherty.github.io/otl-google-books-api/scribners-monthly-1876.html" width="100%" height=650]
 ```
