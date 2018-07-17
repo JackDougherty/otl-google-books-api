@@ -11,5 +11,5 @@ https://ontheline.github.io/otl-google-books-api/scribners-monthly-1876.html
 
 embed iframe
 ```
-<iframe src="https://ontheline.github.io/otl-google-books-api/scribners-monthly-1876.html" width="100%" height=650></iframe>
+<iframe src="https://ontheline.github.io/otl-google-books-api/scribners-monthly-1876.html" width="100%" height=615></iframe>
 ```
