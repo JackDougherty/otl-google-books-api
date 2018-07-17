@@ -7,9 +7,9 @@ Based on book-interactions-openatpage at https://developers.google.com/books/doc
 
 Charles Clark, "The Charter Oak City," Scribner's Monthly, November 1876
 
-https://jackdougherty.github.io/otl-google-books-api/scribners-monthly-1876.html
+https://ontheline.github.io/otl-google-books-api/scribners-monthly-1876.html
 
 embed iframe
 ```
-[iframe src="https://jackdougherty.github.io/otl-google-books-api/scribners-monthly-1876.html" width="100%" height=650]
+<iframe src="https://ontheline.github.io/otl-google-books-api/scribners-monthly-1876.html" width="100%" height=650></iframe>
 ```
