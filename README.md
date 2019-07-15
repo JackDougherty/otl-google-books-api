@@ -1,5 +1,5 @@
 # otl-google-books-api
-Display selected page using Google Books API in On The Line (http://OnTheLine.trincoll.edu)
+Display selected page from Google Books API in historical book: On The Line (http://OnTheLine.trincoll.edu)
 
 Based on book-interactions-openatpage at https://developers.google.com/books/docs/viewer/examples/
 
@@ -9,7 +9,6 @@ Charles Clark, "The Charter Oak City," Scribner's Monthly, November 1876
 
 https://ontheline.github.io/otl-google-books-api/scribners-monthly-1876.html
 
-embed iframe
-```
-<iframe src="https://ontheline.github.io/otl-google-books-api/scribners-monthly-1876.html" width="100%" height=615></iframe>
-```
+set iframe height to 615 px
+
+View in http://OnTheLine.trincoll.edu
