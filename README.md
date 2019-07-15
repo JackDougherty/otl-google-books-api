@@ -9,6 +9,6 @@ Charles Clark, "The Charter Oak City," Scribner's Monthly, November 1876
 
 https://ontheline.github.io/otl-google-books-api/scribners-monthly-1876.html
 
-set iframe height to 615 px
+set iframe height to 660 px
 
 View in http://OnTheLine.trincoll.edu
