@@ -1,7 +1,7 @@
 # otl-google-books-api
 Display selected page from Google Books API in historical book: On The Line (http://OnTheLine.trincoll.edu)
 
-Based on book-interactions-openatpage at https://developers.google.com/books/docs/viewer/examples/
+Based on Google Books Embedded Viewer API https://developers.google.com/books/docs/viewer/developers_guide
 
 ## Demo
 

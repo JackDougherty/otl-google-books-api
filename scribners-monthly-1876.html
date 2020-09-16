@@ -6,10 +6,10 @@
     <meta charset="utf-8">
 </head>
 <body>
-    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
-    <script type="text/javascript">
+  <script type="text/javascript" src="https://www.google.com/books/jsapi.js"></script>
+  <script type="text/javascript">
       var viewer = null;
-      google.load("books", "0");
+      google.books.load("books", "0");
 
       /* See book-interactions-openatpage at https://developers.google.com/books/docs/viewer/examples/
       /* Called when the Google API is loaded. Here we instantiate the
@@ -37,7 +37,7 @@
 
       /* Load the book as soon as the Google AJAX API is ready
        */
-      google.setOnLoadCallback(initialize);
+      google.books.setOnLoadCallback(initialize);
 
     </script>
     <h3>Scroll the Source: Hartford Declared "Richest City in the US," 1876</h3>
